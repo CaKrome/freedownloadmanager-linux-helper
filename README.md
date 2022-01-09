@@ -1,6 +1,6 @@
 # freedownloadmanager-linux-helper
 
-This is a script that helps you to install/remove [Free Download Manager](https://www.freedownloadmanager.org/) on various GNU/Linux distributions. This script will install Free Download Manager in ```$HOME/freedownloadmanager```, so no elevated privilege is required. It also featured XDG desktop integration, so you can find Free Download Manager in the menu after installation.
+This is a script that helps you to install/remove [Free Download Manager](https://www.freedownloadmanager.org/) on various GNU/Linux distributions. This script will install Free Download Manager in ```$HOME/freedownloadmanager```, so no elevated privilege is required. It also features XDG desktop integration, so you can find Free Download Manager in the menu after installation.
 
 # Motivation
 
